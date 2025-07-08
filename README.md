@@ -1,8 +1,8 @@
-Privacy Policy for Thirstee
+Privacy Policy for Water Drinking Reminder
 
 Effective Date: 08/07/2025
 
-Thank you for using Thirstee. Your privacy is very important to us. This Privacy Policy outlines how we handle your information when you use our Chrome extension.
+Thank you for using Water Drinking Reminder. Your privacy is very important to us. This Privacy Policy outlines how we handle your information when you use our Chrome extension.
 
 1. Information We Collect
 We do not collect, store, or transmit any personal data or user information to our servers or third parties.
